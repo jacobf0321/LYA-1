@@ -1,0 +1,1 @@
+clase de lenjuages de interfaz 1
